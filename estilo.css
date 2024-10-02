@@ -4,7 +4,11 @@
     --secondary-color:#000000;
     --font: "Nunito Sans", sans-serif;
 }
-
+header {
+    background-color: var(--bg-color);
+    text-align: center;
+    padding: 1px;
+}
 body{
     background-color: var(--bg-color);
     color: var(--primary-color);
